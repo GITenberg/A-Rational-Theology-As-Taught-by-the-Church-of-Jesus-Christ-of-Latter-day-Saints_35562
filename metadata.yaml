@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1593
     wikipedia: http://en.wikipedia.org/wiki/John_A._Widtsoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35562#A-Rational-Theology-As-Taught-by-the-Church-of-Jesus-Christ-of-Latter-day-Saints
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2011-03-12'
 gutenberg_type: Text
