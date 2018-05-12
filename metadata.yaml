@@ -1,0 +1,32 @@
+_repo: A-Rational-Theology-As-Taught-by-the-Church-of-Jesus-Christ-of-Latter-day-Saints_35562
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Widtsoe, John Andreas
+    alias: Widtsoe, John A. (John Andreas)
+    birthdate: 1872
+    deathdate: 1952
+    gutenberg_agent_id: '1593'
+    url: http://www.gutenberg.org/2009/agents/1593
+    wikipedia: http://en.wikipedia.org/wiki/John_A._Widtsoe
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2011-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mormon Church -- Doctrines'
+- !lcsh 'Church of Jesus Christ of Latter-day Saints -- Doctrines'
+- !lcsh 'Theology'
+- !lcc 'BX'
+title: A Rational Theology, as Taught by the Church of Jesus Christ of Latter-Day
+  Saints
+url: http://www.gutenberg.org/ebooks/35562
